@@ -1,0 +1,178 @@
+{
+	"Servers":[
+		{
+			"ServerName":"US International 1",
+			"ServerIP":"amboy1.mostpopulardns.xyz"
+		},
+		{
+			"ServerName":"US International 2",
+			"ServerIP":"amboy2.mostpopulardns.xyz"
+		},
+		{
+			"ServerName":"US International 3",
+			"ServerIP":"amboy3.mostpopulardns.xyz"
+		},
+		{
+			"ServerName":"US International 4",
+			"ServerIP":"amboy4.mostpopulardns.xyz"
+		},
+		{
+			"ServerName":"US International 5",
+			"ServerIP":"amboy5.mostpopulardns.xyz"
+			},
+		{
+			"ServerName":"SG International 6",
+			"ServerIP":"indo6.masterpepeng.xyz"
+		},
+		{
+			"ServerName":"SG International 7",
+			"ServerIP":"maytika7.dnsimponly.xyz"
+		},
+		{
+			"ServerName":"SG International 8",
+			"ServerIP":"mantika8.dnsimponly.xyz"
+		},
+		{
+			"ServerName":"SG International 9",
+			"ServerIP":"mantika9.dnsimponly.xyz"
+		},
+		{
+			"ServerName":"SG International 10",
+			"ServerIP":"mantika10.dnsimponly.xyz"
+			},
+		{
+			"ServerName":"SG Gaming International 11",
+			"ServerIP":"sts1.mostpopulardns.xyz"
+		},
+		{
+			"ServerName":"SG Gaming International 12",
+			"ServerIP":"sts2.mostpopulardns.xyz"
+		},
+		{
+			"ServerName":"SG Gaming International 13",
+			"ServerIP":"sts3.mostpopulardns.xyz"
+		},
+		{
+			"ServerName":"SG Gaming International 14",
+			"ServerIP":"sts4.mostpopulardns.xyz"
+		},
+		{
+			"ServerName":"SG Gaming International 15",
+			"ServerIP":"sts5.mostpopulardns.xyz"
+		},
+		{
+			"ServerName":"SG Gaming International 16",
+			"ServerIP":"indoo1.masterpepeng.xyz"
+		},
+		{
+			"ServerName":"SG Gaming International 17",
+			"ServerIP":"indoo2.masterpepeng.xyz"
+		},
+		{
+			"ServerName":"SG Gaming International 18",
+			"ServerIP":"indoo3.masterpepeng.xyz"
+			},
+		{
+			"ServerName":"SG Gaming International 19",
+			"ServerIP":"indoo4.masterpepeng.xyz"
+		},
+		{
+			"ServerName":"SG Gaming International 20",
+			"ServerIP":"indoo5.masterpepeng.xyz"
+		},
+		{
+			"ServerName":"SG Gaming International 21",
+			"ServerIP":"inter1.masterpepeng.xyz"
+		},
+		{
+			"ServerName":"SG Gaming International 22",
+			"ServerIP":"inter2.masterpepeng.xyz"
+		},
+		{
+			"ServerName":"SG Gaming International 23",
+			"ServerIP":"inter3.masterpepeng.xyz"
+			},
+		{
+			"ServerName":"SG Gaming International 24",
+			"ServerIP":"inter4.masterpepeng.xyz"
+		},
+		{
+			"ServerName":"SG Gaming International 25",
+			"ServerIP":"inter5.masterpepeng.xyz"			
+			},
+		{
+			"ServerName":"US International 26",
+			"ServerIP":"usa6.pete-dnsmaker.com"
+		},
+		{
+			"ServerName":"US International 27",
+			"ServerIP":"usa7.pete-dnsmaker.com"
+		},
+		{
+			"ServerName":"US International 28",
+			"ServerIP":"usa8.pete-dnsmaker.com"
+		},
+		{
+			"ServerName":"US International 29",
+			"ServerIP":"usa9.pete-dnsmaker.com"
+			},
+		{
+			"ServerName":"US International 30",
+			"ServerIP":"usa10.pete-dnsmaker.com"			
+		}
+	],
+	"Payloads":[
+		{
+			"PayloadName":"GOMO NO Deduct",
+			"PayloadHost":"45.60.22.194"			
+		},
+		{
+			"PayloadName":"Piso Wifi 1",
+			"PayloadHost":"authentication.smart.com.kh"			
+		},
+		{
+			"PayloadName":"Piso Wifi 2",
+			"PayloadHost":"172.67.198.231"					
+		},
+		{
+			"PayloadName":"Smart TNT SUN 1",
+			"PayloadHost":"smart.com.ph"
+		},
+		{
+			"PayloadName":"GTM LEGENDARIOS 1",
+			"PayloadHost":"www.piecoin.tech"
+		},
+		{
+			"PayloadName":"GTM LEGENDARIOS 2",
+			"PayloadHost":"zopim.io"
+		},
+		{
+			"PayloadName":"GTM LEGENDARIOS 3",
+			"PayloadHost":"marshall.lipe123.ml"
+		},
+		{
+			"PayloadName":"GTM LEGENDARIOS 4",
+			"PayloadHost":"Tigopay.com.gt"
+		},
+		{
+			"PayloadName":"Guatemala 1",
+			"PayloadHost":"Tigopay.com.gt"
+		},
+		{
+			"PayloadName":"Guatemala 2",
+			"PayloadHost":"zopim.io"
+		},
+		{
+			"PayloadName":"Indonesia 1",
+			"PayloadHost":"104..18.3.2"
+		},
+		{
+			"PayloadName":"Indonesia 2",
+			"PayloadHost":"104.16.88.20"			
+		}
+	],
+	"Version":{
+		"VersionCode" : "20.3",
+		"ChangeLogs":"New Version 20.3 Updated SG Gaming Server 11-15!!"
+	}
+}
