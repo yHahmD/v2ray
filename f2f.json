@@ -532,12 +532,12 @@
       "PayloadHost": "usa9.pete-dnsmaker.com"
     },
     {
-      "PayloadNam": "[B] USA 10",
+      "PayloadName": "[B] USA 10",
       "PayloadHost": "usa10.pete-dnsmaker.com"
     }
   ],
   "Version": {
-    "VersionCode": "6.02",
+    "VersionCode": "6.05",
     "ChangeLogs": "Updated Server :\n+ Moved to new backend\n\nUpdated Bughost :\n+ No\n\nThank You for Your support to Free to Fly \u003c3"
   }
 }
