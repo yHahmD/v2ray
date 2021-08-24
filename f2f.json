@@ -148,6 +148,14 @@
       "ServerIP": "104.18.20.94"
     },
     {
+      "ServerName": "[B] [MALAYSIA] DIGI",
+      "ServerIP": "vault.digi.com.my"
+    },
+    {
+      "ServerName": "[B] [MALAYSIA] MAXIS",
+      "ServerIP": "aoc.maxis.com.my"
+    },
+    {
       "ServerName": "[B] TELKOMSEL GAMES MAX",
       "ServerIP": "104.19.143.108"
     },
@@ -174,6 +182,14 @@
     {
       "ServerName": "[B] TELKOMSEL UNLIMITED WHATSAPP",
       "ServerIP": "v.whatsapp.net"
+    },
+    {
+      "ServerName": "[B] TELKOMSEL KUOTA BELAJAR",
+      "ServerIP": "support.zoom.us"
+    },
+    {
+      "ServerName": "[B] XL AKRAB",
+      "ServerIP": "support.zoom.us"
     }
   ],
   "Servers2": [
@@ -284,31 +300,31 @@
       "PayloadHost": "Tigopay.com.gt"
     },
     {
-      "PayloadName": "[A] GUATEMALA CLARO (NUEVO)",
+      "PayloadName": "[A] [GUATEMALA] CLARO (NUEVO)",
       "PayloadHost": "mingob.gob.gt"
     },
     {
-      "PayloadName": "[A] GUATEMALA MOVISTAR",
+      "PayloadName": "[A] [GUATEMALA] MOVISTAR",
       "PayloadHost": "stats.bi.com.gt"
     },
     {
-      "PayloadName": "[A] GUATEMALA TIGO 1",
+      "PayloadName": "[A] [GUATEMALA] TIGO 1",
       "PayloadHost": "104.18.226.52"
     },
     {
-      "PayloadName": "[A] GUATEMALA TIGO 2",
+      "PayloadName": "[A] [GUATEMALA] TIGO 2",
       "PayloadHost": "172.67.133.62"
     },
     {
-      "PayloadName": "[A] GUATEMALA TIGO 3",
+      "PayloadName": "[A] [GUATEMALA] TIGO 3",
       "PayloadHost": "172.67.28.171"
     },
     {
-      "PayloadName": "[A] GUATEMALA TIGO MUSICA 1",
+      "PayloadName": "[A] [GUATEMALA] TIGO MUSICA 1",
       "PayloadHost": "help.soundcloud.com"
     },
     {
-      "PayloadName": "[A] GUATEMALA TIGO MUSICA 2",
+      "PayloadName": "[A] [GUATEMALA] TIGO MUSICA 2",
       "PayloadHost": "support.deezer.com"
     },
     {
@@ -340,6 +356,10 @@
       "PayloadHost": "covid19.go.id"
     },
     {
+      "PayloadName": "[A] MALAYSIA 1",
+      "PayloadHost": "www.who.int"
+    },
+    {
       "PayloadName": "[A] SMARTFREN EDUKASI 1",
       "PayloadHost": "bimbel.ruangguru.com"
     },
@@ -368,8 +388,12 @@
       "PayloadHost": "104.16.86.90"
     },
     {
-      "PayloadName": "[A] TELKOMSEL OPOK 2 •",
+      "PayloadName": "[A] [BARU] TELKOMSEL OPOK 2",
       "PayloadHost": "104.16.86.20"
+    },
+    {
+      "PayloadName": "[A] [BARU] TELKOMSEL GAMESMAX",
+      "PayloadHost": "eksis-gem.serverku.tk"
     },
     {
       "PayloadName": "[A] TELKOMSEL ILMUPEDIA 1",
@@ -382,6 +406,14 @@
     {
       "PayloadName": "[A] TELKOMSEL ILMUPEDIA 3",
       "PayloadHost": "199.60.103.28"
+    },
+    {
+      "PayloadName": "[A] [BARU] TELKOMSEL ILMUPEDIA 4",
+      "PayloadHost": "udemy.com"
+    },
+    {
+      "PayloadName": "[A] [BARU] TELKOMSEL ILMUPEDIA 5",
+      "PayloadHost": "api.midtrans.com"
     },
     {
       "PayloadHost": "s.udemycdn.com",
@@ -537,7 +569,7 @@
     }
   ],
   "Version": {
-    "VersionCode": "6.05",
-    "ChangeLogs": "Updated Server :\n+ Moved to new backend\n\nUpdated Bughost :\n+ No\n\nThank You for Your support to Free to Fly \u003c3"
+    "VersionCode": "6.06",
+    "ChangeLogs": "Updated Server :\n+ No\n\nUpdated Bughost :\n+ 🇮🇩 Telkomsel GamesMax\n+ 🇮🇩 Telkomsel Ilmupedia\n+ 🇮🇩 Telkomsel Kuota Belajar\n+ 🇮🇩 XL Akrab\n+ 🇲🇾 Digi\n+ 🇲🇾 Maxis\n\nNote :\n+ Gunakan server [A] dengan bughost [A] (Seperti biasanya)\n+ Untuk yang menggunakan tanda [B] di depan, anggap saja seperti dibalik. jadi pilih bughost dulu sesuai katu SIM yang dipakai, kemudian pilih server di bagian Bughost dengan tanda [B] juga.\n+ Untuk Maxis Malaysia, masih tahap tes karena F2F belum punya server AWS, silakan dicoba saja terlebih dahulu.\n\nLove you guys all..\n\n\nThank You for Your support to Free to Fly \u003c3"
   }
 }
