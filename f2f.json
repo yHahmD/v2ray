@@ -188,6 +188,10 @@
       "ServerIP": "support.zoom.us"
     },
     {
+      "ServerName": "[B] XL CONFERENCE",
+      "ServerIP": "android-safebrowsing.google.com"
+    },
+    {
       "ServerName": "[B] XL AKRAB",
       "ServerIP": "support.zoom.us"
     }
@@ -569,7 +573,7 @@
     }
   ],
   "Version": {
-    "VersionCode": "6.06",
-    "ChangeLogs": "Updated Server :\n+ No\n\nUpdated Bughost :\n+ 🇮🇩 Telkomsel GamesMax\n+ 🇮🇩 Telkomsel Ilmupedia\n+ 🇮🇩 Telkomsel Kuota Belajar\n+ 🇮🇩 XL Akrab\n+ 🇲🇾 Digi\n+ 🇲🇾 Maxis\n\nNote :\n+ Gunakan server [A] dengan bughost [A] (Seperti biasanya)\n+ Untuk yang menggunakan tanda [B] di depan, anggap saja seperti dibalik. jadi pilih bughost dulu sesuai katu SIM yang dipakai, kemudian pilih server di bagian Bughost dengan tanda [B] juga.\n+ Untuk Maxis Malaysia, masih tahap tes karena F2F belum punya server AWS, silakan dicoba saja terlebih dahulu.\n\nLove you guys all..\n\n\nThank You for Your support to Free to Fly \u003c3"
+    "VersionCode": "6.07",
+    "ChangeLogs": "Updated Server :\n+ No\n\nUpdated Bughost :\n+ 🇮🇩 XL Conference\nAxis Conference bisa coba juga pake ini.\n\nNote :\n+ Gunakan server [A] dengan bughost [A] (Seperti biasanya)\n+ Untuk yang menggunakan tanda [B] di depan, anggap saja seperti dibalik. jadi pilih bughost dulu sesuai katu SIM yang dipakai, kemudian pilih server di bagian Bughost dengan tanda [B] juga.\n+ Untuk Maxis Malaysia, masih tahap tes karena F2F belum punya server AWS, silakan dicoba saja terlebih dahulu.\n\nLove you guys all..\n\n\nThank You for Your support to Free to Fly \u003c3"
   }
 }
