@@ -112,8 +112,16 @@
       "ServerIP": "android-safebrowsing.google.com"
     },
     {
-      "ServerName": "[B] XL AKRAB",
+      "ServerName": "[B] XL AKRAB 1",
       "ServerIP": "support.zoom.us"
+    },
+    {
+      "ServerName": "[B] XL AKRAB 2",
+      "ServerIP": "maps.gstatic.com"
+    },
+    {
+      "ServerName": "[B] XL MAPS",
+      "ServerIP": "maps.gstatic.com"
     }
   ],
   "Servers2": [
@@ -397,7 +405,7 @@
     }
   ],
   "Version": {
-    "VersionCode": "6.09",
-    "ChangeLogs": "Updated Server :\n+ Singapore Game\n\nUpdated Bughost :\n+ No\n\nThank You for Your support to Free to Fly \u003c3"
+    "VersionCode": "6.10",
+    "ChangeLogs": "Updated Server :\n+ No\n\nUpdated Bughost :\n+ 🇮🇩 XL Akrab 2\n+ 🇮🇩 XL Maps\n\nThank You for Your support to Free to Fly \u003c3"
   }
 }
