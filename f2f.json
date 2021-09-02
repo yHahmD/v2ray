@@ -3,6 +3,66 @@
     {
       "Tambahan": "766D6573733A2F2F65794A685A4751694F694A69615731695A577775636E5668626D646E64584A314C6D4E7662534973496D46705A434936496A49694C434A6F62334E30496A6F69615751744D4467744D4451744D6A4975646A4974636D46354C6D316C49697769615751694F694A6B4D4445344F5441305969316A4F4445784C5451785A6A51744F545132597930774F544E694F575A6D5954566C4D5749694C434A755A5851694F694A3363794973496E4268644767694F694A6F64485277637A6F764C33517562575576546B64465830644255314E54496977696347397964434936496A67304E444D694C434A7763794936496C745552564E555853424254456C4351554A42494445694C434A3062484D694F694A3062484D694C434A306558426C496A6F69626D39755A534973496E59694F694979496E303D"
     },
+        {
+      "ServerName": "[A] SINGAPORE 1",
+      "ServerIP": "gaming1.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] SINGAPORE 2",
+      "ServerIP": "gaming2.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] SINGAPORE 3",
+      "ServerIP": "sgaming3.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] SINGAPORE 4",
+      "ServerIP": "gaming4.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] SINGAPORE 5",
+      "ServerIP": "sgaming5.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] SINGAPORE 6",
+      "ServerIP": "sgaming6.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] SINGAPORE 7",
+      "ServerIP": "sgaming7.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] SINGAPORE 8",
+      "ServerIP": "sgaming8.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] SINGAPORE 9",
+      "ServerIP": "sgaming9.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] SINGAPORE 10",
+      "ServerIP": "sgaming10.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] SINGAPORE 11",
+      "ServerIP": "sts1.mostpopulardns.xyz"
+    },
+    {
+      "ServerName": "[A] SINGAPORE 12",
+      "ServerIP": "sts2.mostpopulardns.xyz"
+    },
+    {
+      "ServerName": "[A] SINGAPORE 13",
+      "ServerIP": "sts3.mostpopulardns.xyz"
+    },
+    {
+      "ServerName": "[A] SINGAPORE 14",
+      "ServerIP": "sts4.mostpopulardns.xyz"
+    },
+    {
+      "ServerName": "[A] SINGAPORE 15",
+      "ServerIP": "sts5.mostpopulardns.xyz"
+    },
     {
       "ServerName": "[A] SINGAPORE GAME 1",
       "ServerIP": "gaming1.pete-dnsmaker.com"
@@ -344,6 +404,66 @@
       "PayloadHost": "104.18.12.65"
     },
     {
+      "PayloadName": "[B] SINGAPORE 1",
+      "PayloadHost": "gaming1.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 2",
+      "PayloadHost": "gaming2.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 3",
+      "PayloadHost": "sgaming3.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 4",
+      "PayloadHost": "gaming4.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 5",
+      "PayloadHost": "sgaming5.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 6",
+      "PayloadHost": "sgaming6.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 7",
+      "PayloadHost": "sgaming7.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 8",
+      "PayloadHost": "sgaming8.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 9",
+      "PayloadHost": "sgaming9.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 10",
+      "PayloadHost": "sgaming10.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 11",
+      "PayloadHost": "sts1.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 12",
+      "PayloadHost": "sts2.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 13",
+      "PayloadHost": "sts3.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 14",
+      "PayloadHost": "sts4.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 15",
+      "PayloadHost": "sts5.mostpopulardns.xyz"
+    },
+    {
       "PayloadName": "[B] SINGAPORE GAME 1",
       "PayloadHost": "gaming1.pete-dnsmaker.com"
     },
@@ -405,7 +525,7 @@
     }
   ],
   "Version": {
-    "VersionCode": "6.10",
-    "ChangeLogs": "Updated Server :\n+ No\n\nUpdated Bughost :\n+ 🇮🇩 XL Akrab 2\n+ 🇮🇩 XL Maps\n\nThank You for Your support to Free to Fly \u003c3"
+    "VersionCode": "6.11",
+    "ChangeLogs": "Updated Server :\n+ Singapore\n\nUpdated Bughost :\n+ No\n\nThank You for Your support to Free to Fly \u003c3"
   }
 }
