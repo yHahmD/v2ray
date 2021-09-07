@@ -3,7 +3,47 @@
     {
       "Tambahan": "766D6573733A2F2F65794A685A4751694F694A69615731695A577775636E5668626D646E64584A314C6D4E7662534973496D46705A434936496A49694C434A6F62334E30496A6F69615751744D4467744D4451744D6A4975646A4974636D46354C6D316C49697769615751694F694A6B4D4445344F5441305969316A4F4445784C5451785A6A51744F545132597930774F544E694F575A6D5954566C4D5749694C434A755A5851694F694A3363794973496E4268644767694F694A6F64485277637A6F764C33517562575576546B64465830644255314E54496977696347397964434936496A67304E444D694C434A7763794936496C745552564E555853424254456C4351554A42494445694C434A3062484D694F694A3062484D694C434A306558426C496A6F69626D39755A534973496E59694F694979496E303D"
     },
-        {
+    {
+      "ServerName": "[A] INDIA 1",
+      "ServerIP": "adsin2.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] INDIA 2",
+      "ServerIP": "adsin3.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] INDIA 3",
+      "ServerIP": "adsin4.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] INDIA 4",
+      "ServerIP": "adssin5.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] INDIA 5",
+      "ServerIP": "adsin6.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] INDIA 6",
+      "ServerIP": "adsin7.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] INDIA 7",
+      "ServerIP": "adsin8.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] INDIA 8",
+      "ServerIP": "adsin9.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] INDIA 9",
+      "ServerIP": "indok.g-blogspot.com"
+    },
+    {
+      "ServerName": "[A] INDIA 10",
+      "ServerIP": "indok.g-blogspot.com"
+    },
+    {
       "ServerName": "[A] SINGAPORE 1",
       "ServerIP": "gaming1.pete-dnsmaker.com"
     },
@@ -122,6 +162,10 @@
     {
       "ServerName": "[A] SINGAPORE GAME 15",
       "ServerIP": "sts5.mostpopulardns.xyz"
+    },
+    {
+      "ServerName": "[A] USA 1",
+      "ServerIP": "usa6.pete-dnsmaker.com"
     },
     {
       "ServerName": "[B] AXIS TIKTOK",
@@ -404,6 +448,46 @@
       "PayloadHost": "104.18.12.65"
     },
     {
+      "PayloadName": "[B] INDIA 1",
+      "PayloadHost": "adsin2.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] INDIA 2",
+      "PayloadHost": "adsin3.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] INDIA 3",
+      "PayloadHost": "adsin4.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] INDIA 4",
+      "PayloadHost": "adssin5.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] INDIA 5",
+      "PayloadHost": "adsin6.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] INDIA 6",
+      "PayloadHost": "adsin7.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] INDIA 7",
+      "PayloadHost": "adsin8.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] INDIA 8",
+      "PayloadHost": "adsin9.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] INDIA 9",
+      "PayloadHost": "indok.g-blogspot.com"
+    },
+    {
+      "PayloadName": "[B] INDIA 10",
+      "PayloadHost": "indok.g-blogspot.com"
+    },
+    {
       "PayloadName": "[B] SINGAPORE 1",
       "PayloadHost": "gaming1.pete-dnsmaker.com"
     },
@@ -522,10 +606,14 @@
     {
       "PayloadName": "[B] SINGAPORE GAME 15",
       "PayloadHost": "sts5.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] USA 1",
+      "PayloadHost": "usa6.pete-dnsmaker.com"
     }
   ],
   "Version": {
-    "VersionCode": "6.11",
-    "ChangeLogs": "Updated Server :\n+ Singapore\n\nUpdated Bughost :\n+ No\n\nThank You for Your support to Free to Fly \u003c3"
+    "VersionCode": "6.12",
+    "ChangeLogs": "Updated Server :\n+ India\n+ USA\n+ Singapore\n\nUpdated Bughost :\n+ No\n\nThank You for Your support to Free to Fly \u003c3"
   }
 }
