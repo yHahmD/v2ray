@@ -230,7 +230,11 @@
   ],
   "Servers2": [
     {
-      "ServerName": "[OFFLINE] INDONESIA 1",
+      "ServerName": "New apk released. check on Telegram",
+      "ServerIP": "google.com"
+    },
+    {
+      "ServerName": "Pembaruan aplikasi tersedia. silakan periksa melalui Telegram",
       "ServerIP": "google.com"
     }
   ],
@@ -613,7 +617,7 @@
     }
   ],
   "Version": {
-    "VersionCode": "6.12",
-    "ChangeLogs": "Updated Server :\n+ India\n+ USA\n+ Singapore\n\nUpdated Bughost :\n+ No\n\nThank You for Your support to Free to Fly \u003c3"
+    "VersionCode": "6.13",
+    "ChangeLogs": "Pembaruan aplikasi tersedia. silakan perbarui aplikasi"
   }
 }
