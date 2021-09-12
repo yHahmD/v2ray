@@ -320,6 +320,14 @@
       "PayloadHost": "104.18.20.94"
     },
     {
+      "PayloadName": "[A] [BARU] BYU RUANGGURU 1",
+      "PayloadHost": "bimbel.ruangguru.com"
+    },
+    {
+      "PayloadName": "[A] [BARU] BYU RUANGGURU",
+      "PayloadHost": "www.thevisiontherapycenter.com"
+    },
+    {
       "PayloadName": "[A] GUATEMALA 1",
       "PayloadHost": "www.piecoin.tech"
     },
@@ -412,7 +420,7 @@
       "PayloadHost": "104.17.57.20"
     },
     {
-      "PayloadName": "[A] [BARU] TELKOMSEL GAMESMAX",
+      "PayloadName": "[A] TELKOMSEL GAMESMAX",
       "PayloadHost": "eksis-gem.serverku.tk"
     },
     {
@@ -428,12 +436,20 @@
       "PayloadHost": "199.60.103.28"
     },
     {
-      "PayloadName": "[A] [BARU] TELKOMSEL ILMUPEDIA 4",
+      "PayloadName": "[A] TELKOMSEL ILMUPEDIA 4",
       "PayloadHost": "udemy.com"
     },
     {
-      "PayloadName": "[A] [BARU] TELKOMSEL ILMUPEDIA 5",
+      "PayloadName": "[A] TELKOMSEL ILMUPEDIA 5",
       "PayloadHost": "api.midtrans.com"
+    },
+    {
+      "PayloadName": "[A] [BARU] TELKOMSEL OPOK 1",
+      "PayloadHost": "104.18.28.7:443"
+    },
+    {
+      "PayloadName": "[A] [BARU] TELKOMSEL OPOK 2",
+      "PayloadHost": "0.gasss.me"
     },
     {
       "PayloadHost": "s.udemycdn.com",
@@ -613,7 +629,7 @@
     }
   ],
   "Version": {
-    "VersionCode": "6.12",
-    "ChangeLogs": "Updated Server :\n+ India\n+ USA\n+ Singapore\n\nUpdated Bughost :\n+ No\n\nThank You for Your support to Free to Fly \u003c3"
+    "VersionCode": "6.13",
+    "ChangeLogs": "Updated Server :\n+ No\n\nUpdated Bughost :\n+ 🇮🇩 byU Ruangguru\n+ 🇮🇩 Telkomsel Opok (Test)\n\nThank You for Your support to Free to Fly \u003c3"
   }
 }
