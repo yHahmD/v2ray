@@ -1,1 +1,636 @@
-Hahahaha
+{
+  "Servers": [
+    {
+      "Tambahan": "766D6573733A2F2F65794A685A4751694F694A69615731695A577775636E5668626D646E64584A314C6D4E7662534973496D46705A434936496A49694C434A6F62334E30496A6F69615751744D4467744D4451744D6A4975646A4974636D46354C6D316C49697769615751694F694A6B4D4445344F5441305969316A4F4445784C5451785A6A51744F545132597930774F544E694F575A6D5954566C4D5749694C434A755A5851694F694A3363794973496E4268644767694F694A6F64485277637A6F764C33517562575576546B64465830644255314E54496977696347397964434936496A67304E444D694C434A7763794936496C745552564E555853424254456C4351554A42494445694C434A3062484D694F694A3062484D694C434A306558426C496A6F69626D39755A534973496E59694F694979496E303D"
+    },
+    {
+      "ServerName": "[A] INDIA 1",
+      "ServerIP": "adsin2.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] INDIA 2",
+      "ServerIP": "adsin3.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] INDIA 3",
+      "ServerIP": "adsin4.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] INDIA 4",
+      "ServerIP": "adssin5.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] INDIA 5",
+      "ServerIP": "adsin6.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] INDIA 6",
+      "ServerIP": "adsin7.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] INDIA 7",
+      "ServerIP": "adsin8.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] INDIA 8",
+      "ServerIP": "adsin9.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] INDIA 9",
+      "ServerIP": "indok.g-blogspot.com"
+    },
+    {
+      "ServerName": "[A] INDIA 10",
+      "ServerIP": "indok.g-blogspot.com"
+    },
+    {
+      "ServerName": "[A] SINGAPORE 1",
+      "ServerIP": "gaming1.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] SINGAPORE 2",
+      "ServerIP": "gaming2.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] SINGAPORE 3",
+      "ServerIP": "sgaming3.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] SINGAPORE 4",
+      "ServerIP": "gaming4.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] SINGAPORE 5",
+      "ServerIP": "sgaming5.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] SINGAPORE 6",
+      "ServerIP": "sgaming6.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] SINGAPORE 7",
+      "ServerIP": "sgaming7.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] SINGAPORE 8",
+      "ServerIP": "sgaming8.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] SINGAPORE 9",
+      "ServerIP": "sgaming9.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] SINGAPORE 10",
+      "ServerIP": "sgaming10.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] SINGAPORE 11",
+      "ServerIP": "sts1.mostpopulardns.xyz"
+    },
+    {
+      "ServerName": "[A] SINGAPORE 12",
+      "ServerIP": "sts2.mostpopulardns.xyz"
+    },
+    {
+      "ServerName": "[A] SINGAPORE 13",
+      "ServerIP": "sts3.mostpopulardns.xyz"
+    },
+    {
+      "ServerName": "[A] SINGAPORE 14",
+      "ServerIP": "sts4.mostpopulardns.xyz"
+    },
+    {
+      "ServerName": "[A] SINGAPORE 15",
+      "ServerIP": "sts5.mostpopulardns.xyz"
+    },
+    {
+      "ServerName": "[A] SINGAPORE GAME 1",
+      "ServerIP": "gaming1.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] SINGAPORE GAME 2",
+      "ServerIP": "gaming2.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] SINGAPORE GAME 3",
+      "ServerIP": "sgaming3.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] SINGAPORE GAME 4",
+      "ServerIP": "gaming4.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] SINGAPORE GAME 5",
+      "ServerIP": "sgaming5.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] SINGAPORE GAME 6",
+      "ServerIP": "sgaming6.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] SINGAPORE GAME 7",
+      "ServerIP": "sgaming7.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] SINGAPORE GAME 8",
+      "ServerIP": "sgaming8.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] SINGAPORE GAME 9",
+      "ServerIP": "sgaming9.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] SINGAPORE GAME 10",
+      "ServerIP": "sgaming10.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] SINGAPORE GAME 11",
+      "ServerIP": "sts1.mostpopulardns.xyz"
+    },
+    {
+      "ServerName": "[A] SINGAPORE GAME 12",
+      "ServerIP": "sts2.mostpopulardns.xyz"
+    },
+    {
+      "ServerName": "[A] SINGAPORE GAME 13",
+      "ServerIP": "sts3.mostpopulardns.xyz"
+    },
+    {
+      "ServerName": "[A] SINGAPORE GAME 14",
+      "ServerIP": "sts4.mostpopulardns.xyz"
+    },
+    {
+      "ServerName": "[A] SINGAPORE GAME 15",
+      "ServerIP": "sts5.mostpopulardns.xyz"
+    },
+    {
+      "ServerName": "[A] USA 1",
+      "ServerIP": "usa6.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[B] AXIS TIKTOK",
+      "ServerIP": "104.18.20.94"
+    },
+    {
+      "ServerName": "[B] [MALAYSIA] DIGI",
+      "ServerIP": "vault.digi.com.my"
+    },
+    {
+      "ServerName": "[B] [MALAYSIA] MAXIS",
+      "ServerIP": "aoc.maxis.com.my"
+    },
+    {
+      "ServerName": "[B] TELKOMSEL GAMES MAX",
+      "ServerIP": "104.19.143.108"
+    },
+    {
+      "ServerName": "[B] TELKOMSEL KETENGAN YOUTUBE",
+      "ServerIP": "youtube.com"
+    },
+    {
+      "ServerName": "[B] TELKOMSEL MAXSTREAM 1",
+      "ServerIP": "connect.hbogo.eu"
+    },
+    {
+      "ServerName": "[B] TELKOMSEL MAXSTREAM 2",
+      "ServerIP": "www.hbogo.eu"
+    },
+    {
+      "ServerName": "[B] TELKOMSEL UNLIMITED APPS",
+      "ServerIP": "login.spotify.com"
+    },
+    {
+      "ServerName": "[B] TELKOMSEL UNLIMITED MAX",
+      "ServerIP": "v.whatsapp.net"
+    },
+    {
+      "ServerName": "[B] TELKOMSEL UNLIMITED WHATSAPP",
+      "ServerIP": "v.whatsapp.net"
+    },
+    {
+      "ServerName": "[B] TELKOMSEL KUOTA BELAJAR",
+      "ServerIP": "support.zoom.us"
+    },
+    {
+      "ServerName": "[B] XL CONFERENCE",
+      "ServerIP": "android-safebrowsing.google.com"
+    },
+    {
+      "ServerName": "[B] XL AKRAB 1",
+      "ServerIP": "support.zoom.us"
+    },
+    {
+      "ServerName": "[B] XL AKRAB 2",
+      "ServerIP": "maps.gstatic.com"
+    },
+    {
+      "ServerName": "[B] XL MAPS",
+      "ServerIP": "maps.gstatic.com"
+    }
+  ],
+  "Servers2": [
+    {
+      "ServerName": "[OFFLINE] INDONESIA 1",
+      "ServerIP": "google.com"
+    }
+  ],
+  "Payloads": [
+    {
+      "PayloadName": "[A] ALL EDUKASI",
+      "PayloadHost": "104.20.75.141"
+    },
+    {
+      "PayloadName": "[A] AXIS BOOSTER VIDEO 1",
+      "PayloadHost": "172.67.213.134"
+    },
+    {
+      "PayloadName": "[A] AXIS BOOSTER VIDEO 2",
+      "PayloadHost": "104.21.69.223"
+    },
+    {
+      "PayloadHost": "www.kelas.ruangguru.com",
+      "PayloadName": "[A] AXIS EDUKASI 1"
+    },
+    {
+      "PayloadName": "[A] AXIS EDUKASI 2",
+      "PayloadHost": "bimbel.ruangguru.com"
+    },
+    {
+      "PayloadName": "[A] AXIS EDUKASI 3",
+      "PayloadHost": "104.20.74.141"
+    },
+    {
+      "PayloadName": "[A] AXIS GAME 1",
+      "PayloadHost": "104.19.142.108"
+    },
+    {
+      "PayloadName": "[A] AXIS GAME 2",
+      "PayloadHost": "104.19.143.108"
+    },
+    {
+      "PayloadName": "[A] AXIS GAME 3",
+      "PayloadHost": "104.18.17.111"
+    },
+    {
+      "PayloadName": "[A] AXIS GAME 4",
+      "PayloadHost": "cdn.appsflyer.com"
+    },
+    {
+      "PayloadName": "[A] AXIS MUSIK",
+      "PayloadHost": "investors.spotify.com"
+    },
+    {
+      "PayloadName": "[A] AXIS OPOK 1",
+      "PayloadHost": "axisnet.id"
+    },
+    {
+      "PayloadName": "[A] AXIS OPOK 2",
+      "PayloadHost": "104.22.29.102"
+    },
+    {
+      "PayloadName": "[A] AXIS OPOK 3",
+      "PayloadHost": "172.67.73.5"
+    },
+    {
+      "PayloadName": "[A] AXIS OPOK 4",
+      "PayloadHost": "104.26.4.192"
+    },
+    {
+      "PayloadName": "[A] AXIS OPOK 5",
+      "PayloadHost": "104.17.57.20"
+    },
+    {
+      "PayloadName": "[A] AXIS OPOK 6",
+      "PayloadHost": "104.22.28.102"
+    },
+    {
+      "PayloadName": "[A] AXIS OPOK 7",
+      "PayloadHost": "172.67.6.144"
+    },
+    {
+      "PayloadName": "[A] AXIS SUSHIROL 1",
+      "PayloadHost": "172.67.213.134"
+    },
+    {
+      "PayloadName": "[A] AXIS SUSHIROL 2",
+      "PayloadHost": "104.21.69.223"
+    },
+    {
+      "PayloadName": "[A] AXIS TIKTOK",
+      "PayloadHost": "104.18.20.94"
+    },
+    {
+      "PayloadName": "[A] [BARU] BYU RUANGGURU 1",
+      "PayloadHost": "bimbel.ruangguru.com"
+    },
+    {
+      "PayloadName": "[A] [BARU] BYU RUANGGURU",
+      "PayloadHost": "www.thevisiontherapycenter.com"
+    },
+    {
+      "PayloadName": "[A] GUATEMALA 1",
+      "PayloadHost": "www.piecoin.tech"
+    },
+    {
+      "PayloadName": "[A] GUATEMALA 2",
+      "PayloadHost": "zopim.io"
+    },
+    {
+      "PayloadName": "[A] GUATEMALA 3",
+      "PayloadHost": "marshall.lipe123.ml"
+    },
+    {
+      "PayloadName": "[A] GUATEMALA 4",
+      "PayloadHost": "Tigopay.com.gt"
+    },
+    {
+      "PayloadName": "[A] [GUATEMALA] CLARO (NUEVO)",
+      "PayloadHost": "mingob.gob.gt"
+    },
+    {
+      "PayloadName": "[A] [GUATEMALA] MOVISTAR",
+      "PayloadHost": "stats.bi.com.gt"
+    },
+    {
+      "PayloadName": "[A] [GUATEMALA] TIGO 1",
+      "PayloadHost": "104.18.226.52"
+    },
+    {
+      "PayloadName": "[A] [GUATEMALA] TIGO 2",
+      "PayloadHost": "172.67.133.62"
+    },
+    {
+      "PayloadName": "[A] [GUATEMALA] TIGO 3",
+      "PayloadHost": "172.67.28.171"
+    },
+    {
+      "PayloadName": "[A] [GUATEMALA] TIGO MUSICA 1",
+      "PayloadHost": "help.soundcloud.com"
+    },
+    {
+      "PayloadName": "[A] [GUATEMALA] TIGO MUSICA 2",
+      "PayloadHost": "support.deezer.com"
+    },
+    {
+      "PayloadHost": "ruditukangcepu.v2ray.dns001.cf",
+      "PayloadName": "[A] IM3 IMCLASS 1"
+    },
+    {
+      "PayloadHost": "104.17.2.81",
+      "PayloadName": "[A] IM3 IMCLASS 2"
+    },
+    {
+      "PayloadHost": "www.midtrans.com",
+      "PayloadName": "[A] IM3 IMCLASS 3"
+    },
+    {
+      "PayloadName": "[A] IM3 ONLINE SHOPPING PACK",
+      "PayloadHost": "istyle.id"
+    },
+    {
+      "PayloadName": "[A] INDOSAT FREEDOM EDUKASI 30GB 1",
+      "PayloadHost": "104.17.2.81"
+    },
+    {
+      "PayloadName": "[A] INDOSAT FREEDOM EDUKASI 30GB 2",
+      "PayloadHost": "104.17.3.81"
+    },
+    {
+      "PayloadName": "[A] INDOSAT OPOK",
+      "PayloadHost": "covid19.go.id"
+    },
+    {
+      "PayloadName": "[A] MALAYSIA 1",
+      "PayloadHost": "www.who.int"
+    },
+    {
+      "PayloadName": "[A] SMARTFREN EDUKASI 1",
+      "PayloadHost": "bimbel.ruangguru.com"
+    },
+    {
+      "PayloadName": "[A] SMARTFREN EDUKASI 2",
+      "PayloadHost": "104.17.2.81"
+    },
+    {
+      "PayloadName": "[A] SMARTFREN EDUKASI 3",
+      "PayloadHost": "104.19.139.56"
+    },
+    {
+      "PayloadName": "[A] SMARTFREN OPOK",
+      "PayloadHost": "104.17.57.20"
+    },
+    {
+      "PayloadName": "[A] TELKOMSEL GAMESMAX",
+      "PayloadHost": "eksis-gem.serverku.tk"
+    },
+    {
+      "PayloadName": "[A] TELKOMSEL ILMUPEDIA 1",
+      "PayloadHost": "104.18.3.2"
+    },
+    {
+      "PayloadName": "[A] TELKOMSEL ILMUPEDIA 2",
+      "PayloadHost": "199.60.103.228"
+    },
+    {
+      "PayloadName": "[A] TELKOMSEL ILMUPEDIA 3",
+      "PayloadHost": "199.60.103.28"
+    },
+    {
+      "PayloadName": "[A] TELKOMSEL ILMUPEDIA 4",
+      "PayloadHost": "udemy.com"
+    },
+    {
+      "PayloadName": "[A] TELKOMSEL ILMUPEDIA 5",
+      "PayloadHost": "api.midtrans.com"
+    },
+    {
+      "PayloadName": "[A] [BARU] TELKOMSEL OPOK 1",
+      "PayloadHost": "104.18.28.7:443"
+    },
+    {
+      "PayloadName": "[A] [BARU] TELKOMSEL OPOK 2",
+      "PayloadHost": "0.gasss.me"
+    },
+    {
+      "PayloadHost": "s.udemycdn.com",
+      "PayloadName": "[A] XL EDUKASI 1"
+    },
+    {
+      "PayloadName": "[A] XL EDUKASI 2",
+      "PayloadHost": "104.20.74.141"
+    },
+    {
+      "PayloadName": "[A] XL OPOK",
+      "PayloadHost": "104.18.12.65"
+    },
+    {
+      "PayloadName": "[B] INDIA 1",
+      "PayloadHost": "adsin2.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] INDIA 2",
+      "PayloadHost": "adsin3.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] INDIA 3",
+      "PayloadHost": "adsin4.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] INDIA 4",
+      "PayloadHost": "adssin5.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] INDIA 5",
+      "PayloadHost": "adsin6.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] INDIA 6",
+      "PayloadHost": "adsin7.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] INDIA 7",
+      "PayloadHost": "adsin8.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] INDIA 8",
+      "PayloadHost": "adsin9.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] INDIA 9",
+      "PayloadHost": "indok.g-blogspot.com"
+    },
+    {
+      "PayloadName": "[B] INDIA 10",
+      "PayloadHost": "indok.g-blogspot.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 1",
+      "PayloadHost": "gaming1.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 2",
+      "PayloadHost": "gaming2.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 3",
+      "PayloadHost": "sgaming3.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 4",
+      "PayloadHost": "gaming4.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 5",
+      "PayloadHost": "sgaming5.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 6",
+      "PayloadHost": "sgaming6.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 7",
+      "PayloadHost": "sgaming7.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 8",
+      "PayloadHost": "sgaming8.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 9",
+      "PayloadHost": "sgaming9.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 10",
+      "PayloadHost": "sgaming10.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 11",
+      "PayloadHost": "sts1.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 12",
+      "PayloadHost": "sts2.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 13",
+      "PayloadHost": "sts3.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 14",
+      "PayloadHost": "sts4.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE 15",
+      "PayloadHost": "sts5.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 1",
+      "PayloadHost": "gaming1.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 2",
+      "PayloadHost": "gaming2.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 3",
+      "PayloadHost": "sgaming3.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 4",
+      "PayloadHost": "gaming4.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 5",
+      "PayloadHost": "sgaming5.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 6",
+      "PayloadHost": "sgaming6.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 7",
+      "PayloadHost": "sgaming7.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 8",
+      "PayloadHost": "sgaming8.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 9",
+      "PayloadHost": "sgaming9.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 10",
+      "PayloadHost": "sgaming10.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 11",
+      "PayloadHost": "sts1.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 12",
+      "PayloadHost": "sts2.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 13",
+      "PayloadHost": "sts3.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 14",
+      "PayloadHost": "sts4.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] SINGAPORE GAME 15",
+      "PayloadHost": "sts5.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] USA 1",
+      "PayloadHost": "usa6.pete-dnsmaker.com"
+    }
+  ],
+  "Version": {
+    "VersionCode": "7.0",
+    "ChangeLogs": "Updated Server :\n+ No\n\nUpdated Bughost :\n+ 🇮🇩 byU Ruangguru\n+ 🇮🇩 Telkomsel Opok (Test)\n\nThank You for Your support to Free to Fly \u003c3"
+  }
+}
+
