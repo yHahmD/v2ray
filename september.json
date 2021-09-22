@@ -176,12 +176,8 @@
       "ServerIP": "104.18.20.94"
     },
     {
-      "ServerName": "[B] [MALAYSIA] DIGI",
-      "ServerIP": "vault.digi.com.my"
-    },
-    {
-      "ServerName": "[B] [MALAYSIA] MAXIS",
-      "ServerIP": "aoc.maxis.com.my"
+      "ServerName": "[B] TELKOMSEL GAMES MAX",
+      "ServerIP": "104.19.143.108"
     },
     {
       "ServerName": "[B] TELKOMSEL MAXSTREAM 1",
@@ -218,6 +214,14 @@
     {
       "ServerName": "[B] XL MAPS",
       "ServerIP": "maps.gstatic.com"
+    },
+    {
+      "ServerName": "[B] [MALAYSIA] DIGI",
+      "ServerIP": "vault.digi.com.my"
+    },
+    {
+      "ServerName": "[B] [MALAYSIA] MAXIS",
+      "ServerIP": "aoc.maxis.com.my"
     }
   ],
   "Servers2": [
@@ -621,7 +625,7 @@
     }
   ],
   "Version": {
-    "VersionCode": "7.1",
-    "ChangeLogs": "Updated Server :\n+ Indonesia\n\nUpdated Bughost :\n+ No\n\nThank You for Your support to Free to Fly \u003c3"
+    "VersionCode": "7.2",
+    "ChangeLogs": "Updated Server :\n+ No\n\nUpdated Bughost :\n+ 🇮🇩 (B) Telkomsel GamesMax\n\nThank You for Your support to Free to Fly \u003c3"
   }
 }
