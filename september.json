@@ -296,7 +296,19 @@
       "PayloadHost": "104.20.74.141"
     },
     {
-      "PayloadName": "[A] AXIS GAME",
+      "PayloadName": "[A] AXIS GAME 1",
+      "PayloadHost": "104.19.142.108"
+    },
+    {
+      "PayloadName": "[A] AXIS GAME 2",
+      "PayloadHost": "104.19.143.108"
+    },
+    {
+      "PayloadName": "[A] AXIS GAME 3",
+      "PayloadHost": "104.18.17.111"
+    },
+    {
+      "PayloadName": "[A] AXIS GAME 4",
       "PayloadHost": "cdn.appsflyer.com"
     },
     {
@@ -673,7 +685,7 @@
     }
   ],
   "Version": {
-    "VersionCode": "7.22",
-    "ChangeLogs": "Updated Server :\n+ 🇺🇲 USA\n+ Alls server improved\n\nUpdated Bughost :\n+ 🌏 All edukasi\n+ 🇮🇩 Axis Game\n\nThank You for Your support to Free to Fly \u003c3"
+    "VersionCode": "7.23",
+    "ChangeLogs": "Updated Server :\n+ All server improved\n\nUpdated Bughost :\n+ 🌏 All edukasi\n+ 🇮🇩 Axis Game 1-4\n\nThank You for Your support to Free to Fly \u003c3"
   }
 }
