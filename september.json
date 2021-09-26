@@ -168,6 +168,26 @@
       "ServerIP": "usa6.pete-dnsmaker.com"
     },
     {
+      "ServerName": "[A] USA 2",
+      "ServerIP": "usa6.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] USA 3",
+      "ServerIP": "usa7.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] USA 4",
+      "ServerIP": "usa8.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] USA 5",
+      "ServerIP": "usa9.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] USA 6",
+      "ServerIP": "usa10.pete-dnsmaker.com"
+    },
+    {
       "ServerName": "[B] AXIS CONFERENCE",
       "ServerIP": "android-safebrowsing.google.com"
     },
@@ -232,8 +252,28 @@
   ],
   "Payloads": [
     {
-      "PayloadName": "[A] ALL EDUKASI",
+      "PayloadName": "[A] ALL EDUKASI 1",
       "PayloadHost": "104.20.75.141"
+    },
+    {
+      "PayloadName": "[A] ALL EDUKASI 2",
+      "PayloadHost": "group41.sites.hscoscdn40.net"
+    },
+    {
+      "PayloadName": "[A] ALL EDUKASI 3",
+      "PayloadHost": "group40.sites.hscoscdn40.net"
+    },
+    {
+      "PayloadName": "[A] ALL EDUKASI 4",
+      "PayloadHost": "group42.sites.hscoscdn40.net"
+    },
+    {
+      "PayloadName": "[A] ALL EDUKASI 5",
+      "PayloadHost": "bimbel.ruangguru.com"
+    },
+    {
+      "PayloadName": "[A] ALL EDUKASI 6",
+      "PayloadHost": "104.17.3.81"
     },
     {
       "PayloadName": "[A] AXIS BOOSTER VIDEO 1",
@@ -256,19 +296,7 @@
       "PayloadHost": "104.20.74.141"
     },
     {
-      "PayloadName": "[A] AXIS GAME 1",
-      "PayloadHost": "104.19.142.108"
-    },
-    {
-      "PayloadName": "[A] AXIS GAME 2",
-      "PayloadHost": "104.19.143.108"
-    },
-    {
-      "PayloadName": "[A] AXIS GAME 3",
-      "PayloadHost": "104.18.17.111"
-    },
-    {
-      "PayloadName": "[A] AXIS GAME 4",
+      "PayloadName": "[A] AXIS GAME",
       "PayloadHost": "cdn.appsflyer.com"
     },
     {
@@ -622,10 +650,30 @@
     {
       "PayloadName": "[B] USA 1",
       "PayloadHost": "usa6.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 2",
+      "PayloadHost": "usa6.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 3",
+      "PayloadHost": "usa7.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 4",
+      "PayloadHost": "usa8.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 5",
+      "PayloadHost": "usa9.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 6",
+      "PayloadHost": "usa10.pete-dnsmaker.com"
     }
   ],
   "Version": {
-    "VersionCode": "7.21",
-    "ChangeLogs": "Updated Server :\n+ 🇮🇩  Indonesia\n\nUpdated Bughost :\n+ No\n\nThank You for Your support to Free to Fly \u003c3"
+    "VersionCode": "7.22",
+    "ChangeLogs": "Updated Server :\n+ 🇺🇲 USA\n+ Alls server improved\n\nUpdated Bughost :\n+ 🌏 All edukasi\n+ 🇮🇩 Axis Game\n\nThank You for Your support to Free to Fly \u003c3"
   }
 }
