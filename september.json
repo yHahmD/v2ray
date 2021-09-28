@@ -4,187 +4,83 @@
       "Tambahan": "766D6573733A2F2F65794A685A4751694F694A69615731695A577775636E5668626D646E64584A314C6D4E7662534973496D46705A434936496A5930496977696147397A64434936496E59794C576C6B4E53357465585A77633274316553353465586F694C434A705A434936496A51774E3249794E5463314C5467795A4459744E4451335A4330354D6A46684C5745344F474E695957597A4D7A55314E794973496D356C64434936496E647A496977696347463061434936496939326257567A6330426D636D566C496977696347397964434936496A51304D794973496E427A496A6F6957303947526B784A546B566449456C4F5245394F52564E4A51534179496977696447787A496A6F696447787A4969776964486C775A534936496D3576626D55694C434A32496A6F694D694A39"
     },
     {
-      "ServerName": "[A] INDIA 1",
-      "ServerIP": "adsin2.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] INDIA 2",
-      "ServerIP": "adsin3.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] INDIA 3",
-      "ServerIP": "adsin4.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] INDIA 4",
-      "ServerIP": "adssin5.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] INDIA 5",
-      "ServerIP": "adsin6.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] INDIA 6",
-      "ServerIP": "adsin7.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] INDIA 7",
-      "ServerIP": "adsin8.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] INDIA 8",
-      "ServerIP": "adsin9.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] INDIA 9",
-      "ServerIP": "indok.g-blogspot.com"
-    },
-    {
-      "ServerName": "[A] INDIA 10",
-      "ServerIP": "indok.g-blogspot.com"
-    },
-    {
-      "ServerName": "[A] SINGAPORE 1",
-      "ServerIP": "gaming1.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] SINGAPORE 2",
-      "ServerIP": "gaming2.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] SINGAPORE 3",
-      "ServerIP": "sgaming3.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] SINGAPORE 4",
-      "ServerIP": "gaming4.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] SINGAPORE 5",
-      "ServerIP": "sgaming5.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] SINGAPORE 6",
-      "ServerIP": "sgaming6.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] SINGAPORE 7",
-      "ServerIP": "sgaming7.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] SINGAPORE 8",
-      "ServerIP": "sgaming8.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] SINGAPORE 9",
-      "ServerIP": "sgaming9.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] SINGAPORE 10",
-      "ServerIP": "sgaming10.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] SINGAPORE 11",
-      "ServerIP": "sts1.mostpopulardns.xyz"
-    },
-    {
-      "ServerName": "[A] SINGAPORE 12",
-      "ServerIP": "sts2.mostpopulardns.xyz"
-    },
-    {
-      "ServerName": "[A] SINGAPORE 13",
-      "ServerIP": "sts3.mostpopulardns.xyz"
-    },
-    {
-      "ServerName": "[A] SINGAPORE 14",
-      "ServerIP": "sts4.mostpopulardns.xyz"
-    },
-    {
-      "ServerName": "[A] SINGAPORE 15",
-      "ServerIP": "sts5.mostpopulardns.xyz"
-    },
-    {
-      "ServerName": "[A] SINGAPORE GAME 1",
-      "ServerIP": "gaming1.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] SINGAPORE GAME 2",
-      "ServerIP": "gaming2.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] SINGAPORE GAME 3",
-      "ServerIP": "sgaming3.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] SINGAPORE GAME 4",
-      "ServerIP": "gaming4.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] SINGAPORE GAME 5",
-      "ServerIP": "sgaming5.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] SINGAPORE GAME 6",
-      "ServerIP": "sgaming6.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] SINGAPORE GAME 7",
-      "ServerIP": "sgaming7.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] SINGAPORE GAME 8",
-      "ServerIP": "sgaming8.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] SINGAPORE GAME 9",
-      "ServerIP": "sgaming9.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] SINGAPORE GAME 10",
-      "ServerIP": "sgaming10.pete-dnsmaker.com"
-    },
-    {
-      "ServerName": "[A] SINGAPORE GAME 11",
-      "ServerIP": "sts1.mostpopulardns.xyz"
-    },
-    {
-      "ServerName": "[A] SINGAPORE GAME 12",
-      "ServerIP": "sts2.mostpopulardns.xyz"
-    },
-    {
-      "ServerName": "[A] SINGAPORE GAME 13",
-      "ServerIP": "sts3.mostpopulardns.xyz"
-    },
-    {
-      "ServerName": "[A] SINGAPORE GAME 14",
-      "ServerIP": "sts4.mostpopulardns.xyz"
-    },
-    {
-      "ServerName": "[A] SINGAPORE GAME 15",
-      "ServerIP": "sts5.mostpopulardns.xyz"
-    },
-    {
       "ServerName": "[A] USA 1",
-      "ServerIP": "usa6.pete-dnsmaker.com"
+      "ServerIP": "amboy1.mostpopulardns.xyz"
     },
     {
       "ServerName": "[A] USA 2",
-      "ServerIP": "usa6.pete-dnsmaker.com"
+      "ServerIP": "amboy2.mostpopulardns.xyz"
     },
     {
       "ServerName": "[A] USA 3",
-      "ServerIP": "usa7.pete-dnsmaker.com"
+      "ServerIP": "amboy3.mostpopulardns.xyz"
     },
     {
       "ServerName": "[A] USA 4",
-      "ServerIP": "usa8.pete-dnsmaker.com"
+      "ServerIP": "amboy4.mostpopulardns.xyz"
     },
     {
       "ServerName": "[A] USA 5",
-      "ServerIP": "usa9.pete-dnsmaker.com"
+      "ServerIP": "amboy5.mostpopulardns.xyz"
     },
     {
       "ServerName": "[A] USA 6",
+      "ServerIP": "usa6.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] USA 7",
+      "ServerIP": "usa7.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] USA 8",
+      "ServerIP": "usa8.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] USA 9",
+      "ServerIP": "usa9.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] USA 10",
+      "ServerIP": "usa10.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] USA 11",
+      "ServerIP": "amboy1.mostpopulardns.xyz"
+    },
+    {
+      "ServerName": "[A] USA 12",
+      "ServerIP": "amboy2.mostpopulardns.xyz"
+    },
+    {
+      "ServerName": "[A] USA 13",
+      "ServerIP": "amboy3.mostpopulardns.xyz"
+    },
+    {
+      "ServerName": "[A] USA 14",
+      "ServerIP": "amboy4.mostpopulardns.xyz"
+    },
+    {
+      "ServerName": "[A] USA 15",
+      "ServerIP": "amboy5.mostpopulardns.xyz"
+    },
+    {
+      "ServerName": "[A] USA 16",
+      "ServerIP": "usa6.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] USA 17",
+      "ServerIP": "usa7.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] USA 18",
+      "ServerIP": "usa8.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] USA 19",
+      "ServerIP": "usa9.pete-dnsmaker.com"
+    },
+    {
+      "ServerName": "[A] USA 20",
       "ServerIP": "usa10.pete-dnsmaker.com"
     },
     {
@@ -500,192 +396,88 @@
       "PayloadHost": "104.18.12.65"
     },
     {
-      "PayloadName": "[B] INDIA 1",
-      "PayloadHost": "adsin2.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] INDIA 2",
-      "PayloadHost": "adsin3.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] INDIA 3",
-      "PayloadHost": "adsin4.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] INDIA 4",
-      "PayloadHost": "adssin5.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] INDIA 5",
-      "PayloadHost": "adsin6.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] INDIA 6",
-      "PayloadHost": "adsin7.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] INDIA 7",
-      "PayloadHost": "adsin8.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] INDIA 8",
-      "PayloadHost": "adsin9.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] INDIA 9",
-      "PayloadHost": "indok.g-blogspot.com"
-    },
-    {
-      "PayloadName": "[B] INDIA 10",
-      "PayloadHost": "indok.g-blogspot.com"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE 1",
-      "PayloadHost": "gaming1.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE 2",
-      "PayloadHost": "gaming2.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE 3",
-      "PayloadHost": "sgaming3.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE 4",
-      "PayloadHost": "gaming4.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE 5",
-      "PayloadHost": "sgaming5.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE 6",
-      "PayloadHost": "sgaming6.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE 7",
-      "PayloadHost": "sgaming7.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE 8",
-      "PayloadHost": "sgaming8.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE 9",
-      "PayloadHost": "sgaming9.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE 10",
-      "PayloadHost": "sgaming10.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE 11",
-      "PayloadHost": "sts1.mostpopulardns.xyz"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE 12",
-      "PayloadHost": "sts2.mostpopulardns.xyz"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE 13",
-      "PayloadHost": "sts3.mostpopulardns.xyz"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE 14",
-      "PayloadHost": "sts4.mostpopulardns.xyz"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE 15",
-      "PayloadHost": "sts5.mostpopulardns.xyz"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE GAME 1",
-      "PayloadHost": "gaming1.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE GAME 2",
-      "PayloadHost": "gaming2.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE GAME 3",
-      "PayloadHost": "sgaming3.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE GAME 4",
-      "PayloadHost": "gaming4.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE GAME 5",
-      "PayloadHost": "sgaming5.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE GAME 6",
-      "PayloadHost": "sgaming6.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE GAME 7",
-      "PayloadHost": "sgaming7.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE GAME 8",
-      "PayloadHost": "sgaming8.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE GAME 9",
-      "PayloadHost": "sgaming9.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE GAME 10",
-      "PayloadHost": "sgaming10.pete-dnsmaker.com"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE GAME 11",
-      "PayloadHost": "sts1.mostpopulardns.xyz"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE GAME 12",
-      "PayloadHost": "sts2.mostpopulardns.xyz"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE GAME 13",
-      "PayloadHost": "sts3.mostpopulardns.xyz"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE GAME 14",
-      "PayloadHost": "sts4.mostpopulardns.xyz"
-    },
-    {
-      "PayloadName": "[B] SINGAPORE GAME 15",
-      "PayloadHost": "sts5.mostpopulardns.xyz"
-    },
-    {
       "PayloadName": "[B] USA 1",
-      "PayloadHost": "usa6.pete-dnsmaker.com"
+      "PayloadHost": "amboy1.mostpopulardns.xyz"
     },
     {
       "PayloadName": "[B] USA 2",
-      "PayloadHost": "usa6.pete-dnsmaker.com"
+      "PayloadHost": "amboy2.mostpopulardns.xyz"
     },
     {
       "PayloadName": "[B] USA 3",
-      "PayloadHost": "usa7.pete-dnsmaker.com"
+      "PayloadHost": "amboy3.mostpopulardns.xyz"
     },
     {
       "PayloadName": "[B] USA 4",
-      "PayloadHost": "usa8.pete-dnsmaker.com"
+      "PayloadHost": "amboy4.mostpopulardns.xyz"
     },
     {
       "PayloadName": "[B] USA 5",
-      "PayloadHost": "usa9.pete-dnsmaker.com"
+      "PayloadHost": "amboy5.mostpopulardns.xyz"
     },
     {
       "PayloadName": "[B] USA 6",
+      "PayloadHost": "usa6.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 7",
+      "PayloadHost": "usa7.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 8",
+      "PayloadHost": "usa8.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 9",
+      "PayloadHost": "usa9.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 10",
+      "PayloadHost": "usa10.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 11",
+      "PayloadHost": "amboy1.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] USA 12",
+      "PayloadHost": "amboy2.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] USA 13",
+      "PayloadHost": "amboy3.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] USA 14",
+      "PayloadHost": "amboy4.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] USA 15",
+      "PayloadHost": "amboy5.mostpopulardns.xyz"
+    },
+    {
+      "PayloadName": "[B] USA 16",
+      "PayloadHost": "usa6.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 17",
+      "PayloadHost": "usa7.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 18",
+      "PayloadHost": "usa8.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 19",
+      "PayloadHost": "usa9.pete-dnsmaker.com"
+    },
+    {
+      "PayloadName": "[B] USA 20",
       "PayloadHost": "usa10.pete-dnsmaker.com"
     }
   ],
   "Version": {
-    "VersionCode": "7.23",
-    "ChangeLogs": "Updated Server :\n+ All server improved\n\nUpdated Bughost :\n+ 🌏 All edukasi\n+ 🇮🇩 Axis Game 1-4\n\nThank You for Your support to Free to Fly \u003c3"
+    "VersionCode": "7.24",
+    "ChangeLogs": "Updated Server :\n+ USA\n\nUpdated Bughost :\n+ No\n\nThank You for Your support to Free to Fly \u003c3"
   }
 }
