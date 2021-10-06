@@ -62,7 +62,7 @@
   ],
   "Servers2": [
     {
-      "ServerName": "Iklan kami saat ini dibatasi oleh tim Google. Harap TIDAK (DO NOT CLICK) mengklik WATCH ADS TO ADD TIME",
+      "ServerName": "Segera perbarui aplikasi, karena aplikasi versi ini (2.0.1) akan segera kedaluwarsa. Setelah perbarui aplikasi jangan lupa untuk perbarui konfigurasi juga",
       "ServerIP": "google.com"
     }
   ],
@@ -325,7 +325,7 @@
     }
   ],
   "Version": {
-    "VersionCode": "7.32",
+    "VersionCode": "7.33",
     "ChangeLogs": "Penambahan server Indonesia, Singapura, dan Amerika.\n\nTerimakasih atas kesetiaan Anda bersama Free to Fly ❤️"
   }
 }
